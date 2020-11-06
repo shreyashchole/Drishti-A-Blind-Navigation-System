@@ -1,1 +1,1 @@
-# Drishti-A-Blind-Navigation-System
+# Drishti: A Blind Navigation System
