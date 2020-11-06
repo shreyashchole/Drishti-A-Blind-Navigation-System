@@ -45,5 +45,11 @@ A Smart Blind Baseline System helps **blind people to sense their environment** 
 * Results
 
 <img src="results/result.gif">
+
+
+## Pre-trained Models
+
+1. <a href="https://s3-eu-west-1.amazonaws.com/densedepth/nyu.h5">**NYU Depth V2**</a>
+2. <a href="https://s3-eu-west-1.amazonaws.com/densedepth/kitti.h5">**KITTI**</a>
         
         
