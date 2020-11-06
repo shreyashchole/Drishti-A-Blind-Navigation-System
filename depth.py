@@ -23,7 +23,6 @@ from utils import Image_pro
 parser = argparse.ArgumentParser(description='Drishti: A Smart Blind System-@Adk2001Tech')
 parser.add_argument('-m', default='nyu', type=str, help='Model Name')
 parser.add_argument('-i', default='images', type=str, help='Image folder')
-parser.add_argument('-c', type=str, default='gray', help='cmap')
 parser.add_argument('-s', type=int, default=5, help='n-split frame')
 args = parser.parse_args()
 
