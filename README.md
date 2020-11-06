@@ -17,7 +17,7 @@ A Smart Blind Baseline System helps **blind people to sense their environment** 
         
 * Arguments
         
-        -m: Model Name (1. {nyu: NYU Depth V2 }, {kitti: KITTI})
+        -m: Model Name (1. {nyu: NYU Depth V2 }, 2. {kitti: KITTI})
         -i: Image folder to be evaluated ( default folder: images)
         -s: Final direction guide (3, 5)
             5- ['ext-left', 'left', 'forward', 'right', 'ext-right']
