@@ -2,10 +2,12 @@
 
 <img src="blind2.gif" height="160" align="right">
 
-A Smart Blind Baseline System helps **blind people to sense their environment** by estimating the *depth* in a real-time image and guide them for the next step direction (**2100 milli-radian  coverage in 3-5  splits**), leveraging the power of End-to-end (**E2E**) learning ( *E2E learning refers to training a possibly complex learning system represented by a single model (specifically a Deep Neural Network) that represents the complete target system, bypassing the intermediate layers or machine usually present in traditional the pipeline i.e uv sensor, depth sensor, etc*)
+A Smart Blind Baseline System helps **blind people to sense their environment** by estimating the *depth* in a real-time image and guide them for the next step direction (**2100 milli-radian  coverage in 3-5  splits**), leveraging the power of End-to-end (**E2E**) learning with mathematical algorithms.
+
+*E2E learning refers to training a possibly complex learning system represented by a single model (specifically a Deep Neural Network) that represents the complete target system, bypassing the intermediate layers or machine usually present in traditional the pipeline i.e uv sensor, depth sensor, etc*
 
 ## Requirements
-* This code is tested with `Tensorflow 2.3`,  on a machine with a *NVIDIA GTX 1650ti* and 8GB+ RAM running on Windows 10 or Ubuntu 16.
+* This code is tested with `Tensorflow 2.3`,  on a machine with a *NVIDIA GTX 1650ti* and 8GB+ RAM running on Windows 10.
 * Other packages needed `Numpy`, `Open-cv`, `Matplotlib`, `PIL`.
 
 ## Evaluation
