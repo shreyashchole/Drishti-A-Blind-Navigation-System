@@ -1,5 +1,7 @@
 # Drishti: A Blind Navigation System
 
+<img src="blind2.gif" height="160" align="right">
+
 A Smart Blind Baseline System helps **blind people to sense their environment** by estimating the *depth* in a real-time image and guide them for the next step direction (**2100 milli-radian  coverage in 3-5  splits**), leveraging the power of End-to-end (**E2E**) learning ( *E2E learning refers to training a possibly complex learning system represented by a single model (specifically a Deep Neural Network) that represents the complete target system, bypassing the intermediate layers or machine usually present in traditional the pipeline i.e uv sensor, depth sensor, etc*)
 
 ## Requirements
