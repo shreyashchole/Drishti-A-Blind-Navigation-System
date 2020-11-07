@@ -44,7 +44,8 @@ A Smart Blind Baseline System helps **blind people to sense their environment** 
             
 * Results
 
-<img src="results/result.gif">
+
+<img src="results/result0.gif">
 
 
 ## Pre-trained Models
